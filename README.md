@@ -1,1 +1,1 @@
-# learning-cvpr-spring-2024-2025
+# Repo for the course COE4234 - Computer Vision and Pattern Recognization
