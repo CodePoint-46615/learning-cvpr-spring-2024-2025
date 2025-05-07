@@ -1,0 +1,10 @@
+#Ignore these files 
+*.bat
+*.ps1
+*.sh
+*.pdf
+*.zip
+*.rar
+*.exe
+*.cmd
+*.docx
